@@ -1,0 +1,13 @@
+{
+    "name": "RandomThoughts",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "randomText.html",
+        "default_icon": "Logo.png"
+    },
+    "icons": {
+        "128": "Logo.png"
+    },
+    "permissions": ["activeTab"]
+}
